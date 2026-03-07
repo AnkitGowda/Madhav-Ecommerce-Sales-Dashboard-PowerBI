@@ -10,7 +10,7 @@ This interactive Ecommerce Sales Dashboard was built using Power BI to analyze s
 - Track monthly profit trends
 - Understand state-wise sales performance
 - Identify top-performing product sub-categories
-- Analyze payment mode distribution
+- Analyze payment mode distributi
 
 ---
 
